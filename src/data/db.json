@@ -17,9 +17,9 @@
           "description":"Deliciosa Pizza clasica, con orilla de pan esponjoso.Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "images":[
               {
-                  "img1":"./images/pizza-hawaina1.jpg",
-                  "img2":"./images/pizza-hawaina2.jpg",
-                  "img3":"./images/pizza-hawaina3.jpg"
+                  "img1":"../../images/pizza-hawaina1.jpg",
+                  "img2":"../../images/pizza-hawaina2.jpg",
+                  "img3":"../../images/pizza-hawaina3.jpg"
               }
           ]
       },
@@ -32,9 +32,9 @@
           "description":"Deliciosa Pizza de Oliva, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "images":[
               {   
-                  "img1":"./images/pizza-olive-1.jpg",
-                  "img2":"./images/pizza-olive-2.jpg",
-                  "img3":"./images/pizza-olive-3.jpg"
+                  "img1":"../../images/pizza-olive-1.jpg",
+                  "img2":"../../images/pizza-olive-2.jpg",
+                  "img3":"../../images/pizza-olive-3.jpg"
               }
           ]
       },
@@ -47,9 +47,9 @@
           "description":"Deliciosa Pizza de Mozarella, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "images":[
               {   
-                  "img1":"./images/pizza-mozarella1.jpg",
-                  "img2":"./images/pizza-mozarella2.jpg",
-                  "img3":"./images/pizza-mozarella3.jpg"
+                  "img1":"../../images/pizza-mozarella1.jpg",
+                  "img2":"../../images/pizza-mozarella2.jpg",
+                  "img3":"../../images/pizza-mozarella3.jpg"
                   
               }
           ]
@@ -62,9 +62,9 @@
           "description":"Deliciosa Pizza Cesar, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "images":[
               {   
-                  "img1":"./images/pizza-cesar1.jpg",
-                  "img2":"./images/pizza-cesar2.jpg",
-                  "img3":"./images/pizza-cesar3.jpg"
+                  "img1":"../../images/pizza-cesar1.jpg",
+                  "img2":"../../images/pizza-cesar2.jpg",
+                  "img3":"../../images/pizza-cesar3.jpg"
                   
               }
           ]
