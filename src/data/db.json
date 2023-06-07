@@ -17,9 +17,9 @@
           "description":"Deliciosa Pizza clasica, con orilla de pan esponjoso.Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "imgs":[
               {
-                  "img1":"../../imgs/pizza-hawaina1.jpg",
-                  "img2":"../../imgs/pizza-hawaina2.jpg",
-                  "img3":"../../imgs/pizza-hawaina3.jpg"
+                  "img1":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-hawaina1.jpg",
+                  "img2":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-hawaina1.jpg",
+                  "img3":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-hawaina1.jpg"
               }
           ]
       },
@@ -32,9 +32,9 @@
           "description":"Deliciosa Pizza de Oliva, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "imgs":[
               {   
-                  "img1":"../../imgs/pizza-olive-1.jpg",
-                  "img2":"../../imgs/pizza-olive-2.jpg",
-                  "img3":"../../imgs/pizza-olive-3.jpg"
+                  "img1":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-olive1.jpg",
+                  "img2":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-olive-2.jpg",
+                  "img3":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-olive3.jpg"
               }
           ]
       },
@@ -47,9 +47,9 @@
           "description":"Deliciosa Pizza de Mozarella, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "imgs":[
               {   
-                  "img1":"../../imgs/pizza-mozarella1.jpg",
-                  "img2":"../../imgs/pizza-mozarella2.jpg",
-                  "img3":"../../imgs/pizza-mozarella3.jpg"
+                  "img1":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-mozarella1.jpg",
+                  "img2":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-mozarella2.jpg",
+                  "img3":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-mozarella3.jpg"
                   
               }
           ]
@@ -62,9 +62,9 @@
           "description":"Deliciosa Pizza Cesar, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a produccion un viernes, necesitaras, una de estas.",
           "imgs":[
               {   
-                  "img1":"../../imgs/pizza-cesar1.jpg",
-                  "img2":"../../imgs/pizza-cesar2.jpg",
-                  "img3":"../../imgs/pizza-cesar3.jpg"
+                  "img1":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-cesar1.jpg",
+                  "img2":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-cesar2.jpg",
+                  "img3":"https://raw.githubusercontent.com/J-Ciro/pizza-api/main/src/images/pizza-cesar3.jpg"
                   
               }
           ]
